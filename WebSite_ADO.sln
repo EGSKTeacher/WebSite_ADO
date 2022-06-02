@@ -25,13 +25,22 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite_ADO", "WebSite_ADO\
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{785BA45E-8AD0-42B3-97CF-94F073F79F13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EF4F2C5E-69AD-41AE-B935-A46CEA4D4ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EF4F2C5E-69AD-41AE-B935-A46CEA4D4ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4F2C5E-69AD-41AE-B935-A46CEA4D4ADE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4F2C5E-69AD-41AE-B935-A46CEA4D4ADE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{785BA45E-8AD0-42B3-97CF-94F073F79F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{785BA45E-8AD0-42B3-97CF-94F073F79F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{785BA45E-8AD0-42B3-97CF-94F073F79F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{785BA45E-8AD0-42B3-97CF-94F073F79F13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
